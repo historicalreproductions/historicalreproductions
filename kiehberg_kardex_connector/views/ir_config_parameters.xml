@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <data>
+        <record id="kardex_mail_template_parameter" model="ir.config_parameter">
+            <field name="key">stock.default_kardex_template_id</field>
+            <field name="value">Kardex Email Template</field>
+        </record>
+    </data>
+</odoo>
